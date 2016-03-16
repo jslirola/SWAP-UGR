@@ -1,0 +1,16 @@
+<pregunta>
+  <enunciado>¿Qué es una granja web?</enunciado>
+  <opcionA>Una zona de tierra, dedicada principalmente a la producción de servidores web.</opcionA>
+  <opcionB>Un conjunto de servidores dedicados a servir contenido web a los usuarios finales.</opcionB>
+  <opcionC>Un conjunto de servidores ubicados en una finca con animales.</opcionC>
+  <opcionD>Ninguna de las anteriores.</opcionD>
+  <solucion>B</solucion>
+</pregunta>
+<pregunta>
+  <enunciado>¿Qué sistema dispone de una mayor disponibilidad?</enunciado>
+  <opcionA>Un único servidor dedicado.</opcionA>
+  <opcionB>Una granja web.</opcionB>
+  <opcionC>Tienen la misma disponibilidad el servidor dedicado y la granja web.</opcionC>
+  <opcionD>La máquina expendedora de café de la facultad.</opcionD>
+  <solucion>B</solucion>
+</pregunta>

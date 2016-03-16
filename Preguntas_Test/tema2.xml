@@ -1,0 +1,16 @@
+<pregunta>
+  <enunciado>¿Qué es la escalabilidad?</enunciado>
+  <opcionA>Cappacidad de elevar privilegios en un sistema.</opcionA>
+  <opcionB>Capacidad de un sistema de manejar la carga, y el esfuerzo para adaptarse al nuevo nivel de carga.</opcionB>
+  <opcionC>Capacidad de escalar sistemas montañosos.</opcionC>
+  <opcionD>Todas son correctas.</opcionD>
+  <solucion>B</solucion>
+</pregunta>
+<pregunta>
+  <enunciado>¿Qué significan las siglas NFS?</enunciado>
+  <opcionA>Need For Speed.</opcionA>
+  <opcionB>Not For Sale.</opcionB>
+  <opcionC>Night Fighter Squadron.</opcionC>
+  <opcionD>Network File System.</opcionD>
+  <solucion>D</solucion>
+</pregunta>
